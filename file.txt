@@ -1,1 +1,2 @@
 New lines
+This is my second line"
